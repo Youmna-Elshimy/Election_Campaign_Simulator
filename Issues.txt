@@ -1,0 +1,5 @@
+ISSUE 1; Poverty; Increase in the number of people suffering from poverty; ECONOMIC
+ISSUE 2; Higher Education; Increase in the number of people not pursuing higher education; EDUCATION
+ISSUE 3; Job Opportunities; Lack of jobs leading to an increase in unemployment and underemployment rates; EMPLOYMENT
+ISSUE 4; Environmental Issues; Flooding, hurricanes, tsunamis, earthquakes, landslides, tornadoes, volcanic eruptions, etc; ENVIRONMENT
+ISSUE 5; COVID-19; People not following the necessary precautions; HEALTHCARE

@@ -1,0 +1,10 @@
+None; DEBATE; This event is held for the participants to debate with each other; DEBATE; 7; DEBATE_EXP | POPULARITY | CONNECTION
+None; CANDIDATE_RELATED_1; This event is held to increase the candidate's popularity; CANDIDATE_RELATED; 6; POPULARITY
+None; CANDIDATE_RELATED_2; This event is held because the candidate has a scandal going on; CANDIDATE_RELATED; 8; SCANDAL_EXP | CONNECTION
+None; LEADER_RELATED_1; This event is held to increase the leader's popularity; LEADER_RELATED; 8; POPULARITY
+None; LEADER_RELATED_2; This event is held because the leader has a scandal going on; LEADER_RELATED; 10; SCANDAL_EXP | CONNECTION
+ISSUE 1; ISSUE_RELATED_I1; Inequality; ISSUE_RELATED; 11; ECONOMIC_EXP | INFLUENCE
+ISSUE 2; ISSUE_RELATED_I2; University Entrance Exams; ISSUE_RELATED; 23; EDUCATION_EXP | INFLUENCE
+ISSUE 3; ISSUE_RELATED_I3; Increase in Unemployment and Underemployment Rates; ISSUE_RELATED; 34; EMPLOYMENT_EXP | INFLUENCE
+ISSUE 4; ISSUE_RELATED_I4; The Occurrence of a Natural Disaster in Nosam; ISSUE_RELATED; 55; ENVIRONMENT_EXP | INFLUENCE
+ISSUE 5; ISSUE_RELATED_I5; The outbreak of the pandemic(COVID-19); ISSUE_RELATED; 66; HEALTHCARE_EXP | INFLUENCE

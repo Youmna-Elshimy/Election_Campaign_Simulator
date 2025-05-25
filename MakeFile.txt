@@ -1,0 +1,4 @@
+g++ Campaign.cpp Candidate.cpp Election.cpp Election.h ElectionGenerator.cpp ElectionSimulator_Function.cpp Electorate.cpp Entity.cpp Event.cpp Group.cpp Human.cpp Issue.cpp Leader.cpp main.cpp ManagerialTeam.cpp Party.cpp Stance.cpp -o APE
+
+./APE 10 30
+

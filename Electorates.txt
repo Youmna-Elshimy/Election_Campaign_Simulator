@@ -1,0 +1,10 @@
+North Nosam: Cluster 1, 1000 | Cluster 2, 1400 | Cluster 3, 2000 | Cluster 4, 2000
+Northeast Nosam: Cluster 1, 5000 | Cluster 2, 2500 | Cluster 3, 1200
+Northwest Nosam: Cluster 1, 2400 | Cluster 2, 6600
+East Nosam: Cluster 1, 1700
+West Nosam: Cluster 1, 6900 | Cluster 2, 3000
+South Nosam: Cluster 1, 2500 | Cluster 2, 1660 | Cluster 3, 6550
+Southeast Nosam: Cluster 1, 5000 | Cluster 2, 7000  | Cluster 3, 6000 | Cluster 4, 5000
+southwest Nosam: Cluster 1, 2000  | Cluster 2, 8000
+Central Nosam: Cluster 1, 2500 | Cluster 2, 4000 | Cluster 3, 6000 | Cluster 4, 7000
+Nosam's Capital: Cluster 1, 1000 | Cluster 2, 1000
